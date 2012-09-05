@@ -50,7 +50,7 @@ use strict;
 #
 
 # Update your NDK base path here (not including the NDK folder itself)
-my $NDK_BASE = "E:/SDE/Android/NDK";
+my $NDK_BASE = "C:/";
 
 # Valid NDK versions are: r7b, r8b
 my $NDK_VERSION = "r8b";
