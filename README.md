@@ -6,7 +6,7 @@ agcc wrapper mod for using Android NDK
 Usage
 =====
 
-Initially you need to setup your build settings inside the script. Here are a few of the variables that you might what to change:
+Initially you need to setup your build settings inside the script. Here are a few of the variables that you might want to change:
 
 - NDK_BASE    - This is where your Andorid NDK is installed.
 - NDK_VERSION - Android NDK version which you would like to use for build.
